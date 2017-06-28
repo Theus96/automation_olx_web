@@ -1,9 +1,9 @@
 # automation_olx_web
-webolx.rb - File with code automation.
-chromedriver.exe - Driver Web Browser for automation.
-Evidence - Paste with evidence in .PNG.
+webolx.rb - File with code automation. <br />
+chromedriver.exe - Driver Web Browser for automation. <br />
+Evidence - Paste with evidence in .PNG.<br />
 
-/// Methods
+/// Methods <br />
 search  - For to facilitate the search elements, created this method.
 Ex: @driver.find_element(property, attribute)
 
